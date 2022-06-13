@@ -610,6 +610,7 @@ color: #212121;
 
 .footer_flex{
   display: flex;
+  align-items: center;
 }
 
 .together{
